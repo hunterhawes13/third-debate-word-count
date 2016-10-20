@@ -2,6 +2,10 @@
 
 Third Presidential Debate word count using JavaScript to count the occurances of each word for both candidates and remove stop words. Stop words are natural language words which have very little meaning, such as "and", "the", "a", "an", and similar words.
 
+Trump total non stop word count 779 words
+
+Clinton tot non stop word count 1186 words
+
 ###Trump most used words
 
 country - 26 occurances
