@@ -2515,6 +2515,7 @@ brought - 2 occurances
 bin - 2 occurances
 
 laden - 2 occurances
+
 celebrity - 2 occurances
 
 apprentice - 2 occurances
@@ -2536,6 +2537,7 @@ opportunity - 2 occurances
 bring - 2 occurances
 
 true - 2 occurances
+
 influence - 2 occurances
 
 judge - 2 occurances
@@ -2545,813 +2547,1623 @@ fraud - 2 occurances
 racketeering - 2 occurances
 
 pattern - 2 occurances
+
 admit - 2 occurances
+
 rip - 2 occurances
+
 deportation - 2 occurances
+
 elections - 2 occurances
+
 cyber - 2 occurances
+
 charity - 2 occurances
+
 proud - 2 occurances
+
 treatment - 2 occurances
+
 evidence - 2 occurances
+
 percent - 2 occurances
+
 astonishing - 2 occurances
+
 community - 2 occurances
+
 earthquake - 2 occurances
+
 part - 2 occurances
+
 released - 2 occurances
+
 line - 2 occurances
+
 run - 2 occurances
+
 forty - 2 occurances
+
 troubling - 2 occurances
+
 hosting - 2 occurances
+
 respond - 2 occurances
+
 unprecedented - 2 occurances
+
 eleven - 2 occurances
+
 fbi - 2 occurances
+
 lost - 2 occurances
+
 primary - 2 occurances
+
 democracy - 2 occurances
+
 general - 2 occurances
+
 game - 2 occurances
+
 position - 2 occurances
+
 iraqi - 2 occurances
+
 forces - 2 occurances
+
 regulations - 2 occurances
+
 provide - 2 occurances
+
 concluded - 2 occurances
+
 weeks - 2 occurances
+
 rocca - 2 occurances
+
 vladimir - 2 occurances
+
 raising - 2 occurances
+
 zone - 2 occurances
+
 choice - 2 occurances
+
 defunding - 2 occurances
+
 prevent - 2 occurances
+
 refugees - 2 occurances
+
 negotiation - 2 occurances
+
 well - 2 occurances
+
 order - 2 occurances
+
 minutes - 2 occurances
+
 do - 2 occurances
+
 ten - 2 occurances
+
 awesome - 2 occurances
+
 said - 2 occurances
+
 law - 2 occurances
+
 was - 2 occurances
+
 has - 2 occurances
+
 what - 2 occurances
+
 come - 2 occurances
+
 google - 2 occurances
+
 and - 2 occurances
+
 hear - 2 occurances
+
 him - 2 occurances
+
 now - 2 occurances
+
 because - 2 occurances
+
 fighters - 2 occurances
+
 fighting - 2 occurances
+
 way - 2 occurances
+
 nightclub - 2 occurances
+
 threat - 2 occurances
+
 smarter - 2 occurances
+
 criticizing - 2 occurances
+
 dollar - 2 occurances
+
 enforcement - 2 occurances
+
 grow - 2 occurances
+
 fairer - 2 occurances
+
 with - 2 occurances
+
 commitment - 2 occurances
+
 peace - 2 occurances
+
 affordable - 2 occurances
+
 accounts - 1 occurance
+
 jeopardy - 1 occurance
+
 professionals - 1 occurance
+
 sworn - 1 occurance
+
 absolutely - 1 occurance
+
 striking - 1 occurance
+
 ironic - 1 occurance
+
 conflicting - 1 occurance
+
 carry - 1 occurance
+
 term - 1 occurance
+
 cavalier - 1 occurance
+
 casual - 1 occurance
+
 ban - 1 occurance
+
 korea - 1 occurance
+
 saudi - 1 occurance
+
 arabia - 1 occurance
+
 terrifying - 1 occurance
+
 bottom - 1 occurance
+
 confirm - 1 occurance
+
 happened - 1 occurance
+
 responsible - 1 occurance
+
 launching - 1 occurance
+
 discovered - 1 occurance
+
 so - 1 occurance
+
 stepping - 1 occurance
+
 heller - 1 occurance
+
 personal - 1 occurance
+
 regulate - 1 occurance
+
 in - 1 occurance
+
 an - 1 occurance
+
 scare - 1 occurance
+
 they - 1 occurance
+
 would - 1 occurance
+
 rhetoric - 1 occurance
+
 terribly - 1 occurance
+
 codes - 1 occurance
+
 or - 1 occurance
+
 his - 1 occurance
+
 finger - 1 occurance
+
 button - 1 occurance
+
 language - 1 occurance
+
 unfortunate - 1 occurance
+
 country's - 1 occurance
+
 tear - 1 occurance
+
 choices - 1 occurance
+
 referenced - 1 occurance
+
 honor - 1 occurance
+
 asia - 1 occurance
+
 europe - 1 occurance
+
 traveling - 1 occurance
+
 east - 1 occurance
+
 disagreed - 1 occurance
+
 applied - 1 occurance
+
 north - 1 occurance
+
 based - 1 occurance
+
 growing - 1 occurance
+
 giving - 1 occurance
+
 middleclass - 1 occurance
+
 governments - 1 occurance
+
 district - 1 occurance
+
 columbia - 1 occurance
+
 ii - 1 occurance
+
 trying - 1 occurance
+
 advanced - 1 occurance
+
 manufacturing - 1 occurance
+
 compete - 1 occurance
+
 romania - 1 occurance
+
 lgbt - 1 occurance
+
 clean - 1 occurance
+
 accordance - 1 occurance
+
 climate - 1 occurance
+
 change - 1 occurance
+
 faith - 1 occurance
+
 medical - 1 occurance
+
 serious - 1 occurance
+
 goings - 1 occurance
+
 safely - 1 occurance
+
 store - 1 occurance
+
 girl - 1 occurance
+
 help - 1 occurance
+
 sent - 1 occurance
+
 thats - 1 occurance
+
 where - 1 occurance
+
 two - 1 occurance
+
 accept - 1 occurance
+
 carla - 1 occurance
+
 are - 1 occurance
+
 worried - 1 occurance
+
 from - 1 occurance
+
 them - 1 occurance
+
 minimum - 1 occurance
+
 live - 1 occurance
+
 constitution - 1 occurance
+
 fulltime - 1 occurance
+
 equal - 1 occurance
+
 saving - 1 occurance
+
 peoples - 1 occurance
+
 starts - 1 occurance
+
 fundamentally - 1 occurance
+
 defending - 1 occurance
+
 technical - 1 occurance
+
 upset - 1 occurance
+
 colleges - 1 occurance
+
 operate - 1 occurance
+
 apprenticeships - 1 occurance
+
 prepare - 1 occurance
+
 sending - 1 occurance
+
 debtfree - 1 occurance
+
 injure - 1 occurance
+
 tuition - 1 occurance
+
 loaded - 1 occurance
+
 public - 1 occurance
+
 talked - 1 occurance
+
 action - 1 occurance
+
 homes - 1 occurance
+
 takes - 1 occurance
+
 enacted - 1 occurance
+
 gains - 1 occurance
+
 precautions - 1 occurance
+
 citizen - 1 occurance
+
 fifteen - 1 occurance
+
 nominates - 1 occurance
+
 phoenix - 1 occurance
+
 individual - 1 occurance
+
 subject - 1 occurance
+
 independent - 1 occurance
+
 experts - 1 occurance
+
 advises - 1 occurance
+
 arms - 1 occurance
+
 commonsense - 1 occurance
+
 presence - 1 occurance
+
 officers - 1 occurance
+
 consents - 1 occurance
+
 breaks - 1 occurance
+
 marriage - 1 occurance
+
 rounding - 1 occurance
+
 nra - 1 occurance
+
 causing - 1 occurance
+
 dislocation - 1 occurance
+
 seen - 1 occurance
+
 trains - 1 occurance
+
 truly - 1 occurance
+
 buses - 1 occurance
+
 trickledown - 1 occurance
+
 economics - 1 occurance
+
 on - 1 occurance
+
 steroids - 1 occurance
+
 lobby - 1 occurance
+
 keeping - 1 occurance
+
 side - 1 occurance
+
 process - 1 occurance
+
 equality - 1 occurance
+
 lead - 1 occurance
+
 another - 1 occurance
+
 translate - 1 occurance
+
 namely - 1 occurance
+
 advocate - 1 occurance
+
 largest - 1 occurance
+
 ads - 1 occurance
+
 regret - 1 occurance
+
 lived - 1 occurance
+
 include - 1 occurance
+
 fifty - 1 occurance
+
 v - 1 occurance
+
 needed - 1 occurance
+
 costed - 1 occurance
+
 eighteen - 1 occurance
+
 husband - 1 occurance
+
 violent - 1 occurance
+
 billion - 1 occurance
+
 surplus - 1 occurance
+
 eliminating - 1 occurance
+
 office - 1 occurance
+
 deport - 1 occurance
+
 wonderful - 1 occurance
+
 disaster - 1 occurance
+
 depression - 1 occurance
+
 talks - 1 occurance
+
 investing - 1 occurance
+
 building - 1 occurance
+
 skill - 1 occurance
+
 training - 1 occurance
+
 guarantees - 1 occurance
+
 meeting - 1 occurance
+
 promised - 1 occurance
+
 breakdown - 1 occurance
+
 clintons - 1 occurance
+
 plans - 1 occurance
+
 affect - 1 occurance
+
 aftertax - 1 occurance
+
 constitutional - 1 occurance
+
 combination - 1 occurance
+
 inherit - 1 occurance
+
 level - 1 occurance
+
 catastrophe - 1 occurance
+
 touch - 1 occurance
+
 represented - 1 occurance
+
 choked - 1 occurance
+
 physically - 1 occurance
+
 distraught - 1 occurance
+
 team - 1 occurance
+
 personally - 1 occurance
+
 steps - 1 occurance
+
 saved - 1 occurance
+
 credit - 1 occurance
+
 deserves - 1 occurance
+
 positions - 1 occurance
+
 dug - 1 occurance
+
 twitter - 1 occurance
+
 intimate - 1 occurance
+
 enable - 1 occurance
+
 higherpaying - 1 occurance
+
 beginning - 1 occurance
+
 difficult - 1 occurance
+
 string - 1 occurance
+
 moving - 1 occurance
+
 upstate - 1 occurance
+
 final - 1 occurance
+
 laws - 1 occurance
+
 tpp - 1 occurance
+
 much - 1 occurance
+
 introducing - 1 occurance
+
 days - 1 occurance
+
 twelve - 1 occurance
+
 including - 1 occurance
+
 workplace - 1 occurance
+
 illegal - 1 occurance
+
 dumping - 1 occurance
+
 citizenship - 1 occurance
+
 limited - 1 occurance
+
 markets - 1 occurance
+
 fought - 1 occurance
+
 stood - 1 occurance
+
 places - 1 occurance
+
 necessarily - 1 occurance
+
 hotel - 1 occurance
+
 crocodile - 1 occurance
+
 tears - 1 occurance
+
 technology - 1 occurance
+
 pull - 1 occurance
+
 prosecutor - 1 occurance
+
 deploy - 1 occurance
+
 enforce - 1 occurance
+
 agreements - 1 occurance
+
 buying - 1 occurance
+
 undermined - 1 occurance
+
 product - 1 occurance
+
 imagine - 1 occurance
+
 untrue - 1 occurance
+
 debunked - 1 occurance
+
 numerous - 1 occurance
+
 thank - 1 occurance
+
 ownership - 1 occurance
+
 bashing - 1 occurance
+
 calling - 1 occurance
+
 nineteen - 1 occurance
+
 seventies - 1 occurance
+
 childrens - 1 occurance
+
 defense - 1 occurance
+
 rapists - 1 occurance
+
 criminals - 1 occurance
+
 africanamerican - 1 occurance
+
 drug - 1 occurance
+
 dealers - 1 occurance
+
 view - 1 occurance
+
 racial - 1 occurance
+
 apartment - 1 occurance
+
 buildings - 1 occurance
+
 borrowing - 1 occurance
+
 fourteen - 1 occurance
+
 father - 1 occurance
+
 start - 1 occurance
+
 beijing - 1 occurance
+
 human - 1 occurance
+
 insulted - 1 occurance
+
 universe - 1 occurance
+
 alicia - 1 occurance
+
 machado - 1 occurance
+
 goes - 1 occurance
+
 eating - 1 occurance
+
 machine - 1 occurance
+
 arguing - 1 occurance
+
 room - 1 occurance
+
 monitoring - 1 occurance
+
 raid - 1 occurance
+
 bringing - 1 occurance
+
 osama - 1 occurance
+
 founding - 1 occurance
+
 formal - 1 occurance
+
 believe - 1 occurance
+
 stringent - 1 occurance
+
 permits - 1 occurance
+
 undercut - 1 occurance
+
 wages - 1 occurance
+
 heard - 1 occurance
+
 response - 1 occurance
+
 held - 1 occurance
+
 looking - 1 occurance
+
 labor - 1 occurance
+
 attractive - 1 occurance
+
 assaulted - 1 occurance
+
 attacked - 1 occurance
+
 build - 1 occurance
+
 writing - 1 occurance
+
 story - 1 occurance
+
 disgusting - 1 occurance
+
 block - 1 occurance
+
 belittling - 1 occurance
+
 bigger - 1 occurance
+
 dignity - 1 occurance
+
 selfworth - 1 occurance
+
 feels - 1 occurance
+
 acts - 1 occurance
+
 demonstrate - 1 occurance
+
 expect - 1 occurance
+
 tower - 1 occurance
+
 pitting - 1 occurance
+
 celebrate - 1 occurance
+
 diversity - 1 occurance
+
 lift - 1 occurance
+
 underpaid - 1 occurance
+
 grandchildren - 1 occurance
+
 pushed - 1 occurance
+
 uncomfortable - 1 occurance
+
 immediately - 1 occurance
+
 denying - 1 occurance
+
 apologizes - 1 occurance
+
 disabled - 1 occurance
+
 mocked - 1 occurance
+
 mimicked - 1 occurance
+
 television - 1 occurance
+
 khan - 1 occurance
+
 man - 1 occurance
+
 died - 1 occurance
+
 serving - 1 occurance
+
 gold - 1 occurance
+
 star - 1 occurance
+
 religion - 1 occurance
+
 john - 1 occurance
+
 mccain - 1 occurance
+
 prisoner - 1 occurance
+
 prefers - 1 occurance
+
 captured - 1 occurance
+
 exercising - 1 occurance
+
 complained - 1 occurance
+
 indiana - 1 occurance
+
 trusted - 1 occurance
+
 complain - 1 occurance
+
 doesnt - 1 occurance
+
 extent - 1 occurance
+
 divisiveness - 1 occurance
+
 mean - 1 occurance
+
 vision - 1 occurance
+
 incites - 1 occurance
+
 violence - 1 occurance
+
 applauds - 1 occurance
+
 pushing - 1 occurance
+
 pulling - 1 occurance
+
 punching - 1 occurance
+
 shouldnt - 1 occurance
+
 stake - 1 occurance
+
 furtherance - 1 occurance
+
 countrys - 1 occurance
+
 rank - 1 occurance
+
 values - 1 occurance
+
 proven - 1 occurance
+
 thrilled - 1 occurance
+
 mischaracterization - 1 occurance
+
 secure - 1 occurance
+
 renowned - 1 occurance
+
 bipartisan - 1 occurance
+
 ronald - 1 occurance
+
 hivaids - 1 occurance
+
 afford - 1 occurance
+
 nominate - 1 occurance
+
 partnership - 1 occurance
+
 association - 1 occurance
+
 environments - 1 occurance
+
 healthier - 1 occurance
+
 discussion - 1 occurance
+
 able - 1 occurance
+
 highranking - 1 occurance
+
 quickly - 1 occurance
+
 spend - 1 occurance
+
 george - 1 occurance
+
 donated - 1 occurance
+
 programs - 1 occurance
+
 rating - 1 occurance
+
 watchdogs - 1 occurance
+
 follow - 1 occurance
+
 foundations - 1 occurance
+
 foot - 1 occurance
+
 portrait - 1 occurance
+
 cancer - 1 occurance
+
 read - 1 occurance
+
 poorest - 1 occurance
+
 hemisphere - 1 occurance
+
 screenings - 1 occurance
+
 hurricane - 1 occurance
+
 devastated - 1 occurance
+
 involved - 1 occurance
+
 catastrophic - 1 occurance
+
 agriculture - 1 occurance
+
 sentence - 1 occurance
+
 threaten - 1 occurance
+
 raises - 1 occurance
+
 candidate - 1 occurance
+
 neighbors - 1 occurance
+
 combined - 1 occurance
+
 prove - 1 occurance
+
 electric - 1 occurance
+
 learned - 1 occurance
+
 paid - 1 occurance
+
 grid - 1 occurance
+
 billionaire - 1 occurance
+
 crosses - 1 occurance
+
 horrifying - 1 occurance
+
 direction - 1 occurance
+
 benefit - 1 occurance
+
 favor - 1 occurance
+
 shutting - 1 occurance
+
 conducted - 1 occurance
+
 yearlong - 1 occurance
+
 investigation - 1 occurance
+
 emails - 1 occurance
+
 unaccountable - 1 occurance
+
 iowa - 1 occurance
+
 caucus - 1 occurance
+
 wisconsin - 1 occurance
+
 defund - 1 occurance
+
 republican - 1 occurance
+
 emmy - 1 occurance
+
 tv - 1 occurance
+
 row - 1 occurance
+
 tweeting - 1 occurance
+
 emmys - 1 occurance
+
 mindset - 1 occurance
+
 funny - 1 occurance
+
 thirty - 1 occurance
+
 works - 1 occurance
+
 free - 1 occurance
+
 outcomes - 1 occurance
+
 expected - 1 occurance
+
 healthcare - 1 occurance
+
 whining - 1 occurance
+
 hacked - 1 occurance
+
 finished - 1 occurance
+
 shows - 1 occurance
+
 denigrating - 1 occurance
+
 appalled - 1 occurance
+
 parties - 1 occurance
+
 websites - 1 occurance
+
 led - 1 occurance
+
 turn - 1 occurance
+
 army - 1 occurance
+
 kurdish - 1 occurance
+
 private - 1 occurance
+
 special - 1 occurance
+
 soldiers - 1 occurance
+
 institutions - 1 occurance
+
 occupying - 1 occurance
+
 smart - 1 occurance
+
 red - 1 occurance
+
 flag - 1 occurance
+
 waving - 1 occurance
+
 punished - 1 occurance
+
 reconstitute - 1 occurance
+
 goal - 1 occurance
+
 form - 1 occurance
+
 fightive - 1 occurance
+
 illusions - 1 occurance
+
 press - 1 occurance
+
 internet - 1 occurance
+
 punishment - 1 occurance
+
 headquarters - 1 occurance
+
 hopeful - 1 occurance
+
 advisors - 1 occurance
+
 successful - 1 occurance
+
 operation - 1 occurance
+
 lots - 1 occurance
+
 remain - 1 occurance
+
 hotbed - 1 occurance
+
 terrorism - 1 occurance
+
 civil - 1 occurance
+
 aided - 1 occurance
+
 abetted - 1 occurance
+
 iranians - 1 occurance
+
 eye - 1 occurance
+
 surge - 1 occurance
+
 protects - 1 occurance
+
 air - 1 occurance
+
 terrorists - 1 occurance
+
 fly - 1 occurance
+
 push - 1 occurance
+
 obtain - 1 occurance
+
 central - 1 occurance
+
 opposed - 1 occurance
+
 die - 1 occurance
+
 havens - 1 occurance
+
 within - 1 occurance
+
 electoral - 1 occurance
+
 sets - 1 occurance
+
 constant - 1 occurance
+
 outflow - 1 occurance
+
 confirmed - 1 occurance
+
 gain - 1 occurance
+
 leverage - 1 occurance
+
 syrian - 1 occurance
+
 abortion - 1 occurance
+
 political - 1 occurance
+
 track - 1 occurance
+
 question - 1 occurance
+
 evening - 1 occurance
+
 once - 1 occurance
+
 again - 1 occurance
+
 finally - 1 occurance
+
 implying - 1 occurance
+
 background - 1 occurance
+
 condemn - 1 occurance
+
 checks - 1 occurance
+
 rejects - 1 occurance
+
 unlv - 1 occurance
+
 questions - 1 occurance
+
 mistake - 1 occurance
+
 ago - 1 occurance
+
 answered - 1 occurance
+
 consistently - 1 occurance
+
 denied - 1 occurance
+
 happen - 1 occurance
+
 very - 1 occurance
+
 just - 1 occurance
+
 want - 1 occurance
+
 everybody - 1 occurance
+
 disagreements - 1 occurance
+
 go - 1 occurance
+
 pretty - 1 occurance
+
 opponent - 1 occurance
+
 see - 1 occurance
+
 sources - 1 occurance
+
 verify - 1 occurance
+
 can - 1 occurance
+
 theres - 1 occurance
+
 audio - 1 occurance
+
 spout - 1 occurance
+
 fall - 1 occurance
+
 why - 1 occurance
+
 does - 1 occurance
+
 matter - 1 occurance
+
 list - 1 occurance
+
 told - 1 occurance
+
 truth - 1 occurance
+
 about - 1 occurance
+
 guess - 1 occurance
+
 believes - 1 occurance
+
 makes - 1 occurance
+
 better - 1 occurance
+
 did - 1 occurance
+
 vote - 1 occurance
+
 really - 1 occurance
+
 here - 1 occurance
+
 all - 1 occurance
+
 interplay - 1 occurance
+
 sunni - 1 occurance
+
 city - 1 occurance
+
 baghdadi - 1 occurance
+
 leadership - 1 occurance
+
 breakup - 1 occurance
+
 estimated - 1 occurance
+
 digging - 1 occurance
+
 underground - 1 occurance
+
 prepared - 1 occurance
+
 tough - 1 occurance
+
 nato - 1 occurance
+
 amazed - 1 occurance
+
 launched - 1 occurance
+
 attack - 1 occurance
+
 conspiracy - 1 occurance
+
 conspiracies - 1 occurance
+
 supporting - 1 occurance
+
 campaigned - 1 occurance
+
 modern - 1 occurance
+
 hasten - 1 occurance
+
 aware - 1 occurance
+
 legitimate - 1 occurance
+
 concerns - 1 occurance
+
 expressed - 1 occurance
+
 favorite - 1 occurance
+
 pte - 1 occurance
+
 moscow - 1 occurance
+
 washington - 1 occurance
+
 sharing - 1 occurance
+
 aligning - 1 occurance
+
 efforts - 1 occurance
+
 abandoned - 1 occurance
+
 negotiations - 1 occurance
+
 decided - 1 occurance
+
 publicly - 1 occurance
+
 blame - 1 occurance
+
 russia - 1 occurance
+
 cybermischief - 1 occurance
+
 presidential - 1 occurance
+
 huge - 1 occurance
+
 concession - 1 occurance
+
 leave - 1 occurance
+
 dislocated - 1 occurance
+
 strike - 1 occurance
+
 interest - 1 occurance
+
 vetted - 1 occurance
+
 confidence - 1 occurance
+
 slam - 1 occurance
+
 door - 1 occurance
+
 picture - 1 occurance
+
 fouryearold - 1 occurance
+
 boy - 1 occurance
+
 aleppo - 1 occurance
+
 blood - 1 occurance
+
 coming - 1 occurance
+
 face - 1 occurance
+
 sat - 1 occurance
+
 ambulance - 1 occurance
+
 haunting - 1 occurance
+
 careful - 1 occurance
+
 vetting - 1 occurance
+
 solve - 1 occurance
+
 internal - 1 occurance
+
 challenges - 1 occurance
+
 stop - 1 occurance
+
 radicalization - 1 occurance
+
 muslim - 1 occurance
+
 communities - 1 occurance
+
 frontlines - 1 occurance
+
 identify - 1 occurance
+
 killer - 1 occurance
+
 women's - 1 occurance
+
 orlando - 1 occurance
+
 pulse - 1 occurance
+
 queens - 1 occurance
+
 place - 1 occurance
+
 heartbreaking - 1 occurance
+
 emanates - 1 occurance
+
 defeat - 1 occurance
+
 painful - 1 occurance
+
 slogan - 1 occurance
+
 thought - 1 occurance
+
 rushed - 1 occurance
+
 recognize - 1 occurance
+
 foreign - 1 occurance
+
 decades - 1 occurance
+
 interfere - 1 occurance
+
 ad - 1 occurance
+
 laughing - 1 occurance
+
 stock - 1 occurance
+
 puts - 1 occurance
+
 fix - 1 occurance
+
 convention - 1 occurance
+
 asked - 1 occurance
+
 grips - 1 occurance
+
 prescription - 1 occurance
+
 drugs - 1 occurance
+
 whatsoever - 1 occurance
+
 slow - 1 occurance
+
 diminish - 1 occurance
+
 visible - 1 occurance
+
 economists - 1 occurance
+
 call - 1 occurance
+
 middleout - 1 occurance
+
 rebuilding - 1 occurance
+
 smartest - 1 occurance
+
 reforms - 1 occurance
+
 difference - 1 occurance
+
 disagreement - 1 occurance
+
 may - 1 occurance
+
 experiences - 1 occurance
+
 dad - 1 occurance
+
 millionaire - 1 occurance
+
 offy - 1 occurance
+
 dads - 1 occurance
+
 businessmandifference - 1 occurance
+
 affects - 1 occurance
+
 economychris - 1 occurance
+
 record - 1 occurance
+
 kremlin - 1 occurance
+
 designed - 1 occurance
+
 payroll - 1 occurance
+
 assuming - 1 occurance
+
 figure - 1 occurance
+
 replenish - 1 occurance
+
 fundmaking - 1 occurance
+
 sufficient - 1 occurance
+
 cap - 1 occurance
+
 finding - 1 occurance
+
 enhance - 1 occurance
+
 lowincome - 1 occurance
+
 disadvantaged - 1 occurance
+
 current - 1 occurance
+
 result - 1 occurance
+
 additional - 1 occurance
+
 dire - 1 occurance
+
 consequences - 1 occurance
+
 news - 1 occurance
+
 deeply - 1 occurance
+
 repeal - 1 occurance
+
 extended - 1 occurance
+
 solvency - 1 occurance
+
 fundso - 1 occurance
+
 repeals - 1 occurance
+
 worse - 1 occurance
+
 longterm - 1 occurance
+
 drivers - 1 occurance
+
 emphasize - 1 occurance
+
 wellness - 1 occurance
+
 entitlement - 1 occurance
+
 spending - 1 occurance
+
 decisionswatching - 1 occurance
+
 tonight - 1 occurance
+
 reaching - 1 occurance
+
 democrats - 1 occurance
+
 republicans - 1 occurance
+
 independents - 1 occurance
+
 talents - 1 occurance
+
 skills - 1 occurance
+
 ambition - 1 occurance
+
 privileged - 1 occurance
+
 disturbing - 1 occurance
+
 protecting - 1 occurance
+
 incredible - 1 occurance
+
 lifes - 1 occurance
+
 mission - 1 occurance
+
 rising - 1 occurance
+
 educations - 1 occurance
+
 chance - 1 occurance
+
 serve - 1 occurance"
